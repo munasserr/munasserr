@@ -1,7 +1,7 @@
 # README.md
 
 # 💫 About Me:
-🔭 Django/Python Developer<br>👯 I’m looking to collaborate on entry to high level projects<br>🌱 I’m currently learning about this cloud world<br>
+🔭 Django/Python Developer<br>👯 I’m looking to collaborate on mid to high level projects<br>🌱 
 
 
 ## 🌐 Socials:
