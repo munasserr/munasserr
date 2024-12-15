@@ -1,7 +1,7 @@
 # README.md
 
 # 💫 About Me:
-🔭 Back-End Developer | Django | Python | OpenAI | AWS<br>👯 I’m looking to collaborate on mid to high level projects<br>🌱 
+🔭 Full-Stack | Back-End Developer | Django | Python | OpenAI | AWS<br>👯 I’m looking to collaborate on mid to high level projects<br>🌱 
 
 
 
