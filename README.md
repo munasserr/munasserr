@@ -1,7 +1,7 @@
 # README.md
 
 # 💫 About Me:
-🔭 Full-Stack | Back-End Developer | Django | Python | OpenAI | AWS
+🔭 Backend Engineer | Django | Python | OpenAI | AWS
 
 
 
